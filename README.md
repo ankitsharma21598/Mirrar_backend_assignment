@@ -31,13 +31,13 @@ This project is a RESTful API for an e-commerce system, implemented using Node.j
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/e-commerce-api-nodejs.git
+   git clone https://github.com/ankitsharma21598/Mirrar_backend_assignment.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd e-commerce-api-nodejs
+   cd Mirrar_backend_assignment
    ```
 
 3. Install dependencies:
@@ -66,11 +66,3 @@ To run the tests, use the following command:
 npm test
 ```
 
-## Contribution Guidelines
-
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make your changes and commit them.
-4. Push the changes to your fork.
-5. Create a pull request.
-    
